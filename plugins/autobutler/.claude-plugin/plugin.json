@@ -1,0 +1,11 @@
+{
+  "name": "autobutler",
+  "version": "0.1.0",
+  "description": "Org-wide workflow skills: resolve an issue end to end, and manage stacked PRs with gh-stack",
+  "author": {
+    "name": "Autobutler LLC",
+    "url": "https://github.com/autobutler-org"
+  },
+  "repository": "https://github.com/autobutler-org/agent-plugins",
+  "license": "MIT-0"
+}

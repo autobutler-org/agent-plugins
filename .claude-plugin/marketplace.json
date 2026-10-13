@@ -1,0 +1,17 @@
+{
+  "name": "autobutler-org",
+  "owner": {
+    "name": "Autobutler LLC",
+    "url": "https://github.com/autobutler-org"
+  },
+  "metadata": {
+    "description": "Agent skills shared across autobutler-org repositories"
+  },
+  "plugins": [
+    {
+      "name": "autobutler",
+      "source": "./plugins/autobutler",
+      "description": "Org-wide workflow skills: resolve an issue end to end, and manage stacked PRs with gh-stack"
+    }
+  ]
+}
