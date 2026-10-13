@@ -10,7 +10,7 @@ One plugin, `autobutler`:
 
 | Skill                      | What it does                                                               |
 | -------------------------- | -------------------------------------------------------------------------- |
-| `autobutler:resolve-issue` | Takes a GitHub issue from diagnosis to an open pull request                 |
+| `autobutler:resolve-issue` | Takes an issue from any tracker from diagnosis to an open pull request     |
 | `autobutler:gh-stack`      | Manages stacked PRs with [gh-stack](https://github.com/github/gh-stack)     |
 
 The skills carry the conventions every repository in the org shares: conventional commits, signed-off commits,
